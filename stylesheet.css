@@ -3,6 +3,11 @@ p {
   color: black;
 }
 
+aside {
+  float: right;
+}
+
+
 body {background-color: white;}
 body {
   margin: 0;
