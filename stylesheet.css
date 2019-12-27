@@ -5,6 +5,14 @@ p {
 
 aside {
   float: right;
+  width: 150px; 
+  height:200px;
+
+}
+
+#doggo img { 
+	width: 150px; 
+	height:200px;
 }
 
 
