@@ -5,14 +5,18 @@ p {
 
 aside {
   float: right;
-  width: 150px; 
-  height:200px;
-
 }
 
-#doggo img { 
+/* img {
+  border-radius: 50%;
+  width: 150px; 
+	height: 200px;
+}*/
+
+#side-pic{ 
+	border-radius: 50%;
 	width: 150px; 
-	height:200px;
+	height: 200px;
 }
 
 
