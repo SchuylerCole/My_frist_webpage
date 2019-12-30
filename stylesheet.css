@@ -34,10 +34,6 @@ aside {
 	height: 200px;
 }*/
 
-#act-button{
-
-}
-
 #side-pic{ 
 	border-radius: 50%;
 	width: 150px; 
@@ -112,4 +108,17 @@ body {
     background-color: #444;
   }
   */
+}
+
+#act-button{
+	margin: 2rem;
+	padding-top: 1rem;
+	padding-right:  1.5rem;
+	padding-bottom: 1rem;
+	padding-left: 1.5rem;
+	border: 0.01rem dotted black;
+	background-color: #444;
+	color: #fff;
+	font-size: 1.25rem;
+	border-radius: 1rem;
 }
